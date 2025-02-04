@@ -1,0 +1,306 @@
+Date,Product_Category,Units_Sold,Unit_Price,Discount_Percentage,Promotion,Store_Location,Customer_Age_Group,Payment_Method,Total_Sales
+2024-01-01,Headphones,1,1654146,15,No Promotion,Surabaya,<25,E-Wallet,1406024.0999999999
+2024-01-02,Camera,1,770846,10,Holiday Discount,Bandung,<25,Debit Card,693761.4
+2024-01-03,TV,3,500404,20,Buy 1 Get 1,Jakarta,>45,Credit Card,1200969.6
+2024-01-04,Camera,18,1458447,0,Holiday Discount,Surabaya,25-35,Debit Card,26252046.0
+2024-01-05,Camera,10,1203286,25,Holiday Discount,Bandung,35-45,Cash,9024645.0
+2024-01-06,Smartphone,3,1823483,10,Buy 1 Get 1,Surabaya,<25,Cash,4923404.100000001
+2024-01-07,TV,8,1215460,0,Buy 1 Get 1,Bandung,<25,Cash,9723680.0
+2024-01-08,TV,14,1384574,10,Buy 1 Get 1,Surabaya,35-45,E-Wallet,17445632.400000002
+2024-01-09,TV,18,735365,15,Buy 1 Get 1,Bandung,<25,Debit Card,11251084.5
+2024-01-10,Camera,15,842786,25,Buy 1 Get 1,Jakarta,>45,Cash,9481342.5
+2024-01-11,Headphones,2,1599188,0,Buy 1 Get 1,Bandung,>45,Credit Card,3198376.0
+2024-01-12,TV,10,1310006,0,Buy 1 Get 1,Surabaya,>45,Cash,13100060.0
+2024-01-13,Camera,2,700244,0,No Promotion,Surabaya,>45,Cash,1400488.0
+2024-01-14,Smartphone,17,1553385,0,Holiday Discount,Bandung,<25,Cash,26407545.0
+2024-01-15,Headphones,8,663273,0,Buy 1 Get 1,Jakarta,35-45,E-Wallet,5306184.0
+2024-01-16,Smartphone,1,1693104,10,No Promotion,Jakarta,35-45,Credit Card,1523793.6
+2024-01-17,Headphones,9,1998189,25,No Promotion,Bandung,35-45,Debit Card,13487775.75
+2024-01-18,Camera,11,1587341,15,No Promotion,Bandung,35-45,Credit Card,14841638.35
+2024-01-19,Laptop,16,1864652,15,Holiday Discount,Surabaya,25-35,Debit Card,25359267.2
+2024-01-20,Headphones,7,1434604,15,Buy 1 Get 1,Jakarta,35-45,E-Wallet,8535893.799999999
+2024-01-21,Smartphone,10,1343523,15,No Promotion,Bandung,25-35,E-Wallet,11419945.5
+2024-01-22,Camera,3,1046237,10,Holiday Discount,Jakarta,25-35,E-Wallet,2824839.9
+2024-01-23,Headphones,18,1749728,20,Holiday Discount,Bandung,>45,E-Wallet,25196083.200000003
+2024-01-24,Laptop,13,1848464,25,Holiday Discount,Bandung,25-35,Debit Card,18022524.0
+2024-01-25,Laptop,7,1200903,0,No Promotion,Jakarta,<25,Cash,8406321.0
+2024-01-26,TV,4,592193,20,Buy 1 Get 1,Bandung,25-35,Debit Card,1895017.6
+2024-01-27,TV,13,1584763,15,No Promotion,Bandung,>45,Credit Card,17511631.15
+2024-01-28,Smartphone,1,1005950,20,No Promotion,Surabaya,25-35,E-Wallet,804760.0
+2024-01-29,Headphones,8,1686887,25,Buy 1 Get 1,Bandung,<25,E-Wallet,10121322.0
+2024-01-30,Headphones,14,1410886,0,Buy 1 Get 1,Bandung,<25,Credit Card,19752404.0
+2024-01-31,TV,16,1300921,0,Buy 1 Get 1,Bandung,<25,Debit Card,20814736.0
+2024-02-01,Headphones,14,1008153,25,Holiday Discount,Surabaya,>45,Cash,10585606.5
+2024-02-02,Headphones,12,1737665,25,Buy 1 Get 1,Jakarta,>45,Cash,15638985.0
+2024-02-03,Laptop,19,1086165,15,No Promotion,Surabaya,35-45,Credit Card,17541564.75
+2024-02-04,TV,15,1984917,0,Buy 1 Get 1,Surabaya,>45,Cash,29773755.0
+2024-02-05,Camera,2,1860642,20,No Promotion,Jakarta,<25,Debit Card,2977027.2
+2024-02-06,TV,2,1118362,10,Holiday Discount,Surabaya,<25,Debit Card,2013051.6
+2024-02-07,Camera,19,1187409,10,No Promotion,Jakarta,>45,Credit Card,20304693.900000002
+2024-02-08,Laptop,17,1061419,25,No Promotion,Surabaya,25-35,Debit Card,13533092.25
+2024-02-09,Smartphone,10,1140053,15,Buy 1 Get 1,Jakarta,>45,E-Wallet,9690450.5
+2024-02-10,Headphones,6,1360395,10,Buy 1 Get 1,Bandung,>45,Credit Card,7346133.0
+2024-02-11,Laptop,15,625917,0,No Promotion,Surabaya,<25,Debit Card,9388755.0
+2024-02-12,Headphones,11,1310717,25,Buy 1 Get 1,Surabaya,35-45,Credit Card,10813415.25
+2024-02-13,Smartphone,5,1848346,20,Holiday Discount,Surabaya,<25,Cash,7393384.0
+2024-02-14,Smartphone,1,1198168,25,Holiday Discount,Surabaya,35-45,Debit Card,898626.0
+2024-02-15,Laptop,8,981680,20,Buy 1 Get 1,Bandung,<25,E-Wallet,6282752.0
+2024-02-16,Smartphone,12,1471375,25,Holiday Discount,Surabaya,>45,Debit Card,13242375.0
+2024-02-17,Camera,12,781342,25,Buy 1 Get 1,Bandung,<25,Credit Card,7032078.0
+2024-02-18,Smartphone,5,1039542,25,No Promotion,Bandung,<25,Credit Card,3898282.5
+2024-02-19,Headphones,7,1592814,20,No Promotion,Bandung,<25,Debit Card,8919758.4
+2024-02-20,Headphones,4,501252,20,Holiday Discount,Bandung,>45,E-Wallet,1604006.4000000001
+2024-02-21,Headphones,6,1326196,25,Buy 1 Get 1,Jakarta,>45,E-Wallet,5967882.0
+2024-02-22,Headphones,13,1364141,10,Buy 1 Get 1,Jakarta,>45,E-Wallet,15960449.700000001
+2024-02-23,Camera,15,815826,15,Holiday Discount,Surabaya,>45,Credit Card,10401781.5
+2024-02-24,TV,3,1870214,15,No Promotion,Jakarta,35-45,Debit Card,4769045.7
+2024-02-25,Laptop,8,1105605,15,Holiday Discount,Jakarta,35-45,Cash,7518114.0
+2024-02-26,Headphones,16,827359,20,No Promotion,Surabaya,25-35,Credit Card,10590195.200000001
+2024-02-27,Smartphone,13,506949,20,Buy 1 Get 1,Surabaya,>45,E-Wallet,5272269.600000001
+2024-02-28,Headphones,18,1263185,10,No Promotion,Surabaya,35-45,Debit Card,20463597.0
+2024-02-29,Smartphone,10,817537,15,Holiday Discount,Jakarta,<25,E-Wallet,6949064.5
+2024-03-01,Smartphone,19,1162301,15,Buy 1 Get 1,Jakarta,>45,Cash,18771161.15
+2024-03-02,Headphones,17,1050222,25,Holiday Discount,Surabaya,25-35,E-Wallet,13390330.5
+2024-03-03,Camera,19,1280722,20,Holiday Discount,Bandung,25-35,E-Wallet,19466974.400000002
+2024-03-04,Smartphone,5,1886465,15,No Promotion,Surabaya,25-35,Cash,8017476.25
+2024-03-05,Smartphone,9,976467,10,Holiday Discount,Bandung,<25,Debit Card,7909382.7
+2024-03-06,Headphones,12,856600,10,No Promotion,Bandung,35-45,Credit Card,9251280.0
+2024-03-07,Smartphone,1,1864133,15,Buy 1 Get 1,Surabaya,<25,Debit Card,1584513.05
+2024-03-08,Smartphone,1,1474304,20,No Promotion,Surabaya,>45,Cash,1179443.2
+2024-03-09,Headphones,15,1853038,10,Buy 1 Get 1,Surabaya,25-35,E-Wallet,25016013.0
+2024-03-10,Headphones,2,750875,25,No Promotion,Jakarta,<25,Debit Card,1126312.5
+2024-03-11,Laptop,16,963389,10,Holiday Discount,Bandung,<25,Credit Card,13872801.6
+2024-03-12,Camera,8,570390,0,No Promotion,Jakarta,35-45,Cash,4563120.0
+2024-03-13,Camera,13,1207689,0,No Promotion,Jakarta,35-45,Debit Card,15699957.0
+2024-03-14,Smartphone,1,753490,20,Buy 1 Get 1,Surabaya,25-35,Credit Card,602792.0
+2024-03-15,Camera,16,1796516,15,Holiday Discount,Jakarta,<25,Cash,24432617.599999998
+2024-03-16,Smartphone,7,865340,20,No Promotion,Surabaya,<25,Credit Card,4845904.0
+2024-03-17,Laptop,5,933027,20,Holiday Discount,Bandung,35-45,Cash,3732108.0
+2024-03-18,Headphones,3,1866199,20,No Promotion,Surabaya,<25,E-Wallet,4478877.600000001
+2024-03-19,Headphones,12,1765040,20,No Promotion,Jakarta,<25,Debit Card,16944384.0
+2024-03-20,Headphones,16,1865843,25,Holiday Discount,Jakarta,<25,Credit Card,22390116.0
+2024-03-21,Camera,19,1150199,25,No Promotion,Surabaya,35-45,Cash,16390335.75
+2024-03-22,Laptop,5,723777,10,Holiday Discount,Surabaya,25-35,Credit Card,3256996.5
+2024-03-23,Camera,14,1359909,0,No Promotion,Jakarta,>45,Credit Card,19038726.0
+2024-03-24,Camera,5,1554145,20,Buy 1 Get 1,Bandung,25-35,Debit Card,6216580.0
+2024-03-25,Laptop,15,1094124,10,Holiday Discount,Bandung,>45,E-Wallet,14770674.0
+2024-03-26,Laptop,17,1128861,0,No Promotion,Surabaya,<25,Credit Card,19190637.0
+2024-03-27,Laptop,14,929802,15,No Promotion,Bandung,25-35,Cash,11064643.799999999
+2024-03-28,Laptop,5,758090,25,Buy 1 Get 1,Jakarta,>45,Cash,2842837.5
+2024-03-29,Headphones,12,1593578,0,Holiday Discount,Surabaya,35-45,E-Wallet,19122936.0
+2024-03-30,TV,16,1271954,15,No Promotion,Jakarta,35-45,Cash,17298574.4
+2024-03-31,TV,16,1161614,0,Buy 1 Get 1,Jakarta,25-35,E-Wallet,18585824.0
+2024-04-01,Laptop,7,1179574,25,No Promotion,Bandung,25-35,Cash,6192763.5
+2024-04-02,TV,4,998870,25,Holiday Discount,Surabaya,<25,Debit Card,2996610.0
+2024-04-03,TV,1,1760367,10,No Promotion,Surabaya,25-35,Credit Card,1584330.3
+2024-04-04,Laptop,5,702846,20,No Promotion,Bandung,<25,Debit Card,2811384.0
+2024-04-05,TV,10,1166997,0,No Promotion,Jakarta,<25,Credit Card,11669970.0
+2024-04-06,Camera,5,1572647,0,No Promotion,Jakarta,35-45,Credit Card,7863235.0
+2024-04-07,Smartphone,4,1528455,15,Buy 1 Get 1,Jakarta,35-45,Credit Card,5196747.0
+2024-04-08,Smartphone,2,1412259,25,Buy 1 Get 1,Jakarta,>45,Debit Card,2118388.5
+2024-04-09,Laptop,10,672312,0,Holiday Discount,Surabaya,35-45,Credit Card,6723120.0
+2024-04-10,Headphones,19,1805794,25,Buy 1 Get 1,Surabaya,35-45,Debit Card,25732564.5
+2024-04-11,Laptop,1,1763455,0,Buy 1 Get 1,Bandung,25-35,E-Wallet,1763455.0
+2024-04-12,Headphones,5,1912290,10,Holiday Discount,Bandung,35-45,Cash,8605305.0
+2024-04-13,Smartphone,13,926650,20,Buy 1 Get 1,Surabaya,>45,Cash,9637160.0
+2024-04-14,Laptop,4,831868,0,Buy 1 Get 1,Surabaya,25-35,Credit Card,3327472.0
+2024-04-15,Camera,16,1428818,25,Holiday Discount,Jakarta,>45,Debit Card,17145816.0
+2024-04-16,TV,16,1965746,10,Holiday Discount,Jakarta,35-45,Cash,28306742.400000002
+2024-04-17,Headphones,2,557108,0,Holiday Discount,Bandung,>45,Debit Card,1114216.0
+2024-04-18,TV,17,1659771,15,No Promotion,Surabaya,25-35,Debit Card,23983690.95
+2024-04-19,TV,12,1585244,20,No Promotion,Bandung,<25,Credit Card,15218342.4
+2024-04-20,Laptop,18,785205,0,Holiday Discount,Surabaya,>45,Cash,14133690.0
+2024-04-21,TV,3,1889972,10,Holiday Discount,Jakarta,>45,Credit Card,5102924.4
+2024-04-22,Camera,1,630560,15,Holiday Discount,Bandung,25-35,Credit Card,535976.0
+2024-04-23,TV,1,1547172,10,No Promotion,Bandung,25-35,Cash,1392454.8
+2024-04-24,Laptop,19,1915400,10,No Promotion,Surabaya,>45,Cash,32753340.0
+2024-04-25,Camera,11,647979,15,Buy 1 Get 1,Jakarta,35-45,E-Wallet,6058603.649999999
+2024-04-26,Smartphone,5,1698425,10,Buy 1 Get 1,Bandung,>45,E-Wallet,7642912.5
+2024-04-27,TV,12,1248589,15,Holiday Discount,Jakarta,25-35,Debit Card,12735607.799999999
+2024-04-28,Laptop,3,551745,0,No Promotion,Bandung,<25,Cash,1655235.0
+2024-04-29,Smartphone,1,1919184,15,No Promotion,Jakarta,<25,E-Wallet,1631306.4
+2024-04-30,Smartphone,1,591865,15,No Promotion,Surabaya,35-45,Debit Card,503085.25
+2024-05-01,Headphones,8,1761466,20,Holiday Discount,Bandung,>45,Debit Card,11273382.4
+2024-05-02,Camera,10,1572200,15,Buy 1 Get 1,Bandung,<25,Debit Card,13363700.0
+2024-05-03,TV,11,523321,15,Holiday Discount,Jakarta,>45,E-Wallet,4893051.35
+2024-05-04,Laptop,12,903704,0,Buy 1 Get 1,Jakarta,25-35,Cash,10844448.0
+2024-05-05,Headphones,13,1309006,20,Buy 1 Get 1,Bandung,<25,Credit Card,13613662.4
+2024-05-06,Camera,12,1722869,25,Holiday Discount,Surabaya,35-45,Debit Card,15505821.0
+2024-05-07,Headphones,14,1427982,0,Buy 1 Get 1,Jakarta,25-35,E-Wallet,19991748.0
+2024-05-08,Camera,2,686717,0,Buy 1 Get 1,Jakarta,35-45,E-Wallet,1373434.0
+2024-05-09,Camera,19,1528202,25,No Promotion,Jakarta,25-35,Credit Card,21776878.5
+2024-05-10,TV,18,1929551,15,Buy 1 Get 1,Bandung,<25,Credit Card,29522130.3
+2024-05-11,Camera,3,683868,10,Holiday Discount,Bandung,35-45,E-Wallet,1846443.6
+2024-05-12,Headphones,17,1159792,20,Holiday Discount,Bandung,35-45,Cash,15773171.200000001
+2024-05-13,Camera,8,595257,10,Buy 1 Get 1,Bandung,25-35,Credit Card,4285850.4
+2024-05-14,TV,10,1088579,25,No Promotion,Surabaya,35-45,E-Wallet,8164342.5
+2024-05-15,TV,2,710176,0,No Promotion,Surabaya,25-35,Credit Card,1420352.0
+2024-05-16,Headphones,19,690471,0,Buy 1 Get 1,Bandung,25-35,Cash,13118949.0
+2024-05-17,Smartphone,9,1414032,20,Buy 1 Get 1,Surabaya,25-35,Debit Card,10181030.4
+2024-05-18,Smartphone,7,972930,0,Holiday Discount,Jakarta,25-35,Credit Card,6810510.0
+2024-05-19,Camera,4,1417559,0,Buy 1 Get 1,Jakarta,<25,Cash,5670236.0
+2024-05-20,Laptop,18,1135605,20,No Promotion,Jakarta,25-35,E-Wallet,16352712.0
+2024-05-21,Camera,13,1688365,20,Buy 1 Get 1,Bandung,>45,Credit Card,17558996.0
+2024-05-22,Headphones,11,889593,25,Holiday Discount,Jakarta,35-45,Credit Card,7339142.25
+2024-05-23,Headphones,4,1315131,0,Holiday Discount,Surabaya,>45,E-Wallet,5260524.0
+2024-05-24,Headphones,4,1622262,0,Holiday Discount,Bandung,<25,Debit Card,6489048.0
+2024-05-25,Headphones,10,567661,25,Holiday Discount,Surabaya,>45,E-Wallet,4257457.5
+2024-05-26,Headphones,5,1068535,15,Holiday Discount,Jakarta,35-45,Credit Card,4541273.75
+2024-05-27,TV,9,1793697,15,Buy 1 Get 1,Jakarta,>45,E-Wallet,13721782.049999999
+2024-05-28,Smartphone,3,1915833,15,Buy 1 Get 1,Jakarta,<25,Cash,4885374.149999999
+2024-05-29,Headphones,17,766765,25,Buy 1 Get 1,Bandung,25-35,E-Wallet,9776253.75
+2024-05-30,Laptop,3,1694682,0,Buy 1 Get 1,Surabaya,>45,Credit Card,5084046.0
+2024-05-31,Laptop,16,1807506,25,Holiday Discount,Bandung,<25,E-Wallet,21690072.0
+2024-06-01,Laptop,4,1160482,25,No Promotion,Bandung,<25,Debit Card,3481446.0
+2024-06-02,Laptop,18,1304462,15,Buy 1 Get 1,Jakarta,35-45,E-Wallet,19958268.599999998
+2024-06-03,TV,17,1369270,10,No Promotion,Bandung,35-45,Debit Card,20949831.0
+2024-06-04,Laptop,7,948874,0,Buy 1 Get 1,Bandung,>45,Cash,6642118.0
+2024-06-05,Headphones,5,1353499,15,Buy 1 Get 1,Jakarta,25-35,Debit Card,5752370.75
+2024-06-06,Camera,12,1523980,10,No Promotion,Bandung,<25,E-Wallet,16458984.0
+2024-06-07,Laptop,17,618033,10,Holiday Discount,Jakarta,>45,Credit Card,9455904.9
+2024-06-08,TV,13,1130265,20,Buy 1 Get 1,Jakarta,<25,Debit Card,11754756.0
+2024-06-09,TV,3,1113157,0,Buy 1 Get 1,Jakarta,<25,Cash,3339471.0
+2024-06-10,Laptop,9,1321106,10,Buy 1 Get 1,Jakarta,25-35,Debit Card,10700958.6
+2024-06-11,Camera,17,1715502,15,No Promotion,Bandung,25-35,Debit Card,24789003.9
+2024-06-12,Laptop,17,1360120,20,Holiday Discount,Jakarta,>45,Debit Card,18497632.0
+2024-06-13,TV,16,931734,0,No Promotion,Jakarta,25-35,Cash,14907744.0
+2024-06-14,Smartphone,13,1921796,25,No Promotion,Bandung,25-35,E-Wallet,18737511.0
+2024-06-15,Headphones,19,1165627,15,Holiday Discount,Bandung,>45,Debit Card,18824876.05
+2024-06-16,TV,17,721897,10,No Promotion,Surabaya,25-35,Debit Card,11045024.1
+2024-06-17,Laptop,4,501062,10,Holiday Discount,Bandung,35-45,Credit Card,1803823.2
+2024-06-18,Headphones,12,1796312,15,Buy 1 Get 1,Bandung,<25,Cash,18322382.4
+2024-06-19,Laptop,9,595462,10,Holiday Discount,Surabaya,<25,Debit Card,4823242.2
+2024-06-20,Laptop,19,1948021,20,Buy 1 Get 1,Bandung,<25,Cash,29609919.200000003
+2024-06-21,Smartphone,12,1998585,0,No Promotion,Bandung,<25,Debit Card,23983020.0
+2024-06-22,Headphones,9,1270173,20,No Promotion,Bandung,>45,E-Wallet,9145245.6
+2024-06-23,Headphones,7,1072203,10,Buy 1 Get 1,Bandung,<25,E-Wallet,6754878.9
+2024-06-24,Smartphone,14,1815352,25,No Promotion,Surabaya,<25,Debit Card,19061196.0
+2024-06-25,TV,19,1158956,0,Holiday Discount,Bandung,<25,E-Wallet,22020164.0
+2024-06-26,Laptop,15,1920499,0,Buy 1 Get 1,Bandung,<25,Debit Card,28807485.0
+2024-06-27,Camera,16,1947960,15,No Promotion,Surabaya,35-45,E-Wallet,26492256.0
+2024-06-28,Laptop,5,1031849,15,Buy 1 Get 1,Jakarta,<25,Credit Card,4385358.25
+2024-06-29,Laptop,3,967010,25,Holiday Discount,Surabaya,35-45,Credit Card,2175772.5
+2024-06-30,TV,12,886193,0,Holiday Discount,Jakarta,>45,Credit Card,10634316.0
+2024-07-01,Laptop,4,526734,25,No Promotion,Surabaya,25-35,Cash,1580202.0
+2024-07-02,Smartphone,16,1423875,15,Holiday Discount,Surabaya,<25,Cash,19364700.0
+2024-07-03,Smartphone,7,526069,15,Buy 1 Get 1,Bandung,25-35,Credit Card,3130110.55
+2024-07-04,Headphones,13,1037198,0,Holiday Discount,Jakarta,25-35,Cash,13483574.0
+2024-07-05,Camera,10,1884199,20,Buy 1 Get 1,Bandung,>45,E-Wallet,15073592.0
+2024-07-06,Laptop,7,970951,10,Buy 1 Get 1,Jakarta,25-35,Debit Card,6116991.3
+2024-07-07,Laptop,14,581264,15,Holiday Discount,Surabaya,35-45,Debit Card,6917041.6
+2024-07-08,TV,5,523275,15,No Promotion,Surabaya,25-35,Debit Card,2223918.75
+2024-07-09,Smartphone,3,1096562,20,Holiday Discount,Jakarta,25-35,Credit Card,2631748.8000000003
+2024-07-10,Camera,11,862920,20,Buy 1 Get 1,Bandung,25-35,Cash,7593696.0
+2024-07-11,Headphones,11,691076,25,Buy 1 Get 1,Bandung,<25,E-Wallet,5701377.0
+2024-07-12,Smartphone,18,1742629,25,Holiday Discount,Bandung,<25,E-Wallet,23525491.5
+2024-07-13,Headphones,15,1502163,10,No Promotion,Bandung,35-45,Credit Card,20279200.5
+2024-07-14,TV,12,1072735,10,No Promotion,Surabaya,35-45,E-Wallet,11585538.0
+2024-07-15,TV,9,1412826,0,Buy 1 Get 1,Surabaya,<25,E-Wallet,12715434.0
+2024-07-16,Laptop,10,1099991,25,Buy 1 Get 1,Surabaya,35-45,E-Wallet,8249932.5
+2024-07-17,Camera,12,1362522,15,No Promotion,Surabaya,<25,E-Wallet,13897724.4
+2024-07-18,Headphones,17,1303692,25,Holiday Discount,Surabaya,>45,Cash,16622073.0
+2024-07-19,Smartphone,6,1661157,15,Buy 1 Get 1,Bandung,25-35,E-Wallet,8471900.7
+2024-07-20,TV,7,1814532,20,Buy 1 Get 1,Bandung,25-35,Debit Card,10161379.200000001
+2024-07-21,Laptop,14,921240,25,No Promotion,Bandung,35-45,Credit Card,9673020.0
+2024-07-22,Laptop,13,1402580,20,Holiday Discount,Bandung,<25,Cash,14586832.0
+2024-07-23,Headphones,8,1444789,10,No Promotion,Surabaya,<25,E-Wallet,10402480.8
+2024-07-24,TV,10,1509940,10,Holiday Discount,Surabaya,35-45,Cash,13589460.0
+2024-07-25,Camera,9,616421,0,Holiday Discount,Surabaya,<25,E-Wallet,5547789.0
+2024-07-26,TV,18,1025893,25,Holiday Discount,Jakarta,>45,Debit Card,13849555.5
+2024-07-27,Headphones,2,572303,20,Buy 1 Get 1,Bandung,25-35,Credit Card,915684.8
+2024-07-28,Headphones,5,658211,15,No Promotion,Bandung,35-45,E-Wallet,2797396.75
+2024-07-29,TV,5,1494653,10,No Promotion,Surabaya,35-45,E-Wallet,6725938.5
+2024-07-30,Headphones,6,687210,10,Holiday Discount,Bandung,<25,E-Wallet,3710934.0
+2024-07-31,TV,19,1362557,15,Buy 1 Get 1,Bandung,35-45,E-Wallet,22005295.55
+2024-08-01,Smartphone,8,644990,20,Buy 1 Get 1,Surabaya,>45,Credit Card,4127936.0
+2024-08-02,TV,16,1707094,20,No Promotion,Jakarta,<25,Credit Card,21850803.200000003
+2024-08-03,TV,13,624040,25,Buy 1 Get 1,Jakarta,<25,Debit Card,6084390.0
+2024-08-04,Headphones,1,1168406,25,Buy 1 Get 1,Jakarta,<25,Credit Card,876304.5
+2024-08-05,Headphones,17,918034,0,Holiday Discount,Surabaya,<25,E-Wallet,15606578.0
+2024-08-06,Laptop,7,1256254,10,Buy 1 Get 1,Bandung,>45,Debit Card,7914400.2
+2024-08-07,Laptop,13,1533255,25,Holiday Discount,Surabaya,<25,Debit Card,14949236.25
+2024-08-08,Smartphone,4,1290756,20,No Promotion,Surabaya,35-45,Debit Card,4130419.2
+2024-08-09,Laptop,4,1295543,15,Buy 1 Get 1,Bandung,>45,E-Wallet,4404846.2
+2024-08-10,TV,6,1455614,20,No Promotion,Jakarta,25-35,Cash,6986947.2
+2024-08-11,Headphones,19,1040677,10,No Promotion,Jakarta,25-35,E-Wallet,17795576.7
+2024-08-12,Laptop,12,1852147,20,Buy 1 Get 1,Surabaya,35-45,Credit Card,17780611.2
+2024-08-13,Laptop,7,1497083,0,Buy 1 Get 1,Jakarta,35-45,Credit Card,10479581.0
+2024-08-14,Smartphone,10,1671459,10,No Promotion,Surabaya,>45,E-Wallet,15043131.0
+2024-08-15,Smartphone,19,1262501,15,Buy 1 Get 1,Surabaya,25-35,E-Wallet,20389391.15
+2024-08-16,TV,7,887952,0,Holiday Discount,Bandung,25-35,Debit Card,6215664.0
+2024-08-17,Headphones,3,612221,10,Holiday Discount,Bandung,25-35,E-Wallet,1652996.7
+2024-08-18,Smartphone,13,1530117,15,Buy 1 Get 1,Bandung,25-35,Debit Card,16907792.849999998
+2024-08-19,Laptop,13,1299666,0,No Promotion,Surabaya,25-35,Credit Card,16895658.0
+2024-08-20,Headphones,18,760669,0,Buy 1 Get 1,Bandung,<25,Debit Card,13692042.0
+2024-08-21,Headphones,8,1259224,10,Buy 1 Get 1,Jakarta,35-45,E-Wallet,9066412.8
+2024-08-22,Laptop,9,1339873,25,No Promotion,Jakarta,<25,Credit Card,9044142.75
+2024-08-23,Smartphone,7,1025134,0,No Promotion,Surabaya,25-35,Cash,7175938.0
+2024-08-24,Laptop,1,1889959,0,Holiday Discount,Surabaya,>45,Debit Card,1889959.0
+2024-08-25,Headphones,3,744761,15,No Promotion,Bandung,>45,Credit Card,1899140.55
+2024-08-26,Camera,13,1332946,20,Holiday Discount,Surabaya,25-35,Debit Card,13862638.4
+2024-08-27,Camera,17,1374668,10,No Promotion,Surabaya,25-35,Credit Card,21032420.400000002
+2024-08-28,TV,1,637541,10,Buy 1 Get 1,Jakarta,>45,Credit Card,573786.9
+2024-08-29,Laptop,6,1447609,25,Holiday Discount,Jakarta,<25,Debit Card,6514240.5
+2024-08-30,Laptop,6,564323,25,Holiday Discount,Bandung,<25,Cash,2539453.5
+2024-08-31,TV,12,1116210,10,Holiday Discount,Surabaya,25-35,Credit Card,12055068.0
+2024-09-01,TV,13,1737715,25,Buy 1 Get 1,Surabaya,<25,Credit Card,16942721.25
+2024-09-02,TV,13,1729024,15,Buy 1 Get 1,Jakarta,>45,Credit Card,19105715.2
+2024-09-03,Headphones,15,1454480,10,Buy 1 Get 1,Surabaya,<25,Cash,19635480.0
+2024-09-04,Laptop,16,735659,25,Buy 1 Get 1,Jakarta,25-35,Cash,8827908.0
+2024-09-05,Headphones,11,889678,10,Buy 1 Get 1,Bandung,>45,E-Wallet,8807812.200000001
+2024-09-06,TV,5,1354016,20,Holiday Discount,Jakarta,<25,Debit Card,5416064.0
+2024-09-07,Laptop,4,1653113,0,Buy 1 Get 1,Surabaya,35-45,Cash,6612452.0
+2024-09-08,Headphones,3,1364909,10,Holiday Discount,Bandung,>45,Debit Card,3685254.3000000003
+2024-09-09,Headphones,19,741983,0,Buy 1 Get 1,Jakarta,>45,E-Wallet,14097677.0
+2024-09-10,TV,18,1288260,25,No Promotion,Jakarta,35-45,Debit Card,17391510.0
+2024-09-11,Laptop,15,1550493,0,Holiday Discount,Bandung,35-45,Cash,23257395.0
+2024-09-12,TV,9,782762,10,No Promotion,Bandung,>45,Debit Card,6340372.2
+2024-09-13,Laptop,17,1286275,20,Holiday Discount,Jakarta,35-45,Cash,17493340.0
+2024-09-14,Camera,14,1916012,25,No Promotion,Surabaya,25-35,Debit Card,20118126.0
+2024-09-15,Smartphone,15,1071650,10,Buy 1 Get 1,Jakarta,25-35,Cash,14467275.0
+2024-09-16,Smartphone,1,782272,25,Buy 1 Get 1,Bandung,25-35,Cash,586704.0
+2024-09-17,Smartphone,3,885925,15,Buy 1 Get 1,Jakarta,>45,Debit Card,2259108.75
+2024-09-18,TV,16,1266641,0,Holiday Discount,Bandung,35-45,E-Wallet,20266256.0
+2024-09-19,Camera,11,1214743,15,No Promotion,Bandung,35-45,Credit Card,11357847.049999999
+2024-09-20,Laptop,12,1089833,10,Buy 1 Get 1,Surabaya,<25,E-Wallet,11770196.4
+2024-09-21,Headphones,10,1630756,20,No Promotion,Bandung,<25,Debit Card,13046048.0
+2024-09-22,Laptop,16,903081,25,No Promotion,Bandung,35-45,E-Wallet,10836972.0
+2024-09-23,Headphones,8,1419723,0,Buy 1 Get 1,Surabaya,35-45,Cash,11357784.0
+2024-09-24,Laptop,6,801953,25,Buy 1 Get 1,Bandung,35-45,Credit Card,3608788.5
+2024-09-25,Camera,12,878892,10,No Promotion,Surabaya,>45,Debit Card,9492033.6
+2024-09-26,Headphones,8,505287,25,Buy 1 Get 1,Surabaya,35-45,Debit Card,3031722.0
+2024-09-27,TV,4,1806241,0,Buy 1 Get 1,Bandung,<25,Debit Card,7224964.0
+2024-09-28,Laptop,8,1557088,10,Buy 1 Get 1,Bandung,>45,Credit Card,11211033.6
+2024-09-29,Laptop,18,1156702,25,Holiday Discount,Jakarta,35-45,Cash,15615477.0
+2024-09-30,Headphones,5,1657448,20,No Promotion,Surabaya,<25,Debit Card,6629792.0
+2024-10-01,TV,9,593070,10,No Promotion,Jakarta,>45,E-Wallet,4803867.0
+2024-10-02,TV,4,1122117,10,Holiday Discount,Bandung,35-45,Debit Card,4039621.2
+2024-10-03,Camera,17,1444118,20,No Promotion,Jakarta,35-45,Debit Card,19640004.8
+2024-10-04,TV,9,1978050,15,Buy 1 Get 1,Surabaya,35-45,Debit Card,15132082.5
+2024-10-05,TV,1,1511293,0,No Promotion,Jakarta,>45,Debit Card,1511293.0
+2024-10-06,TV,13,1590654,15,Buy 1 Get 1,Surabaya,<25,Cash,17576726.7
+2024-10-07,Smartphone,16,1917008,25,Holiday Discount,Bandung,<25,E-Wallet,23004096.0
+2024-10-08,Camera,13,1107812,20,Buy 1 Get 1,Bandung,25-35,Cash,11521244.8
+2024-10-09,Laptop,14,727645,15,No Promotion,Surabaya,35-45,E-Wallet,8658975.5
+2024-10-10,Headphones,3,1286667,10,No Promotion,Bandung,25-35,Debit Card,3474000.9
+2024-10-11,Laptop,6,1853649,25,No Promotion,Bandung,25-35,Credit Card,8341420.5
+2024-10-12,Camera,18,1675885,25,Holiday Discount,Bandung,<25,Cash,22624447.5
+2024-10-13,Headphones,19,1878164,15,Holiday Discount,Bandung,>45,Credit Card,30332348.599999998
+2024-10-14,Camera,5,1388266,15,No Promotion,Surabaya,>45,Cash,5900130.5
+2024-10-15,TV,15,846699,20,Buy 1 Get 1,Jakarta,<25,Debit Card,10160388.0
+2024-10-16,Headphones,2,1884418,0,Holiday Discount,Jakarta,>45,Cash,3768836.0
+2024-10-17,TV,10,886594,15,No Promotion,Bandung,25-35,Debit Card,7536049.0
+2024-10-18,Laptop,18,1272608,15,No Promotion,Jakarta,35-45,Cash,19470902.4
+2024-10-19,Laptop,13,1592501,10,Holiday Discount,Jakarta,<25,Debit Card,18632261.7
+2024-10-20,Headphones,5,1544027,25,Holiday Discount,Bandung,35-45,Debit Card,5790101.25
+2024-10-21,Headphones,1,637023,0,Holiday Discount,Bandung,>45,E-Wallet,637023.0
+2024-10-22,Camera,1,1635964,10,Buy 1 Get 1,Jakarta,35-45,Debit Card,1472367.6
+2024-10-23,Camera,18,1032295,20,Buy 1 Get 1,Surabaya,>45,E-Wallet,14865048.0
+2024-10-24,TV,15,1806378,20,No Promotion,Bandung,>45,Debit Card,21676536.0
+2024-10-25,Headphones,17,1983624,15,Holiday Discount,Surabaya,25-35,Credit Card,28663366.8
+2024-10-26,Laptop,11,558596,15,Buy 1 Get 1,Jakarta,>45,Debit Card,5222872.6
+2024-10-27,Camera,17,1448027,20,Holiday Discount,Bandung,25-35,Credit Card,19693167.2
+2024-10-28,Camera,13,851005,15,No Promotion,Surabaya,25-35,Credit Card,9403605.25
+2024-10-29,Laptop,1,1373172,0,Buy 1 Get 1,Bandung,25-35,Debit Card,1373172.0
+2024-10-30,Camera,2,1022244,15,Buy 1 Get 1,Jakarta,<25,Credit Card,1737814.8
+2024-10-31,TV,9,1961074,25,Buy 1 Get 1,Surabaya,<25,E-Wallet,13237249.5
